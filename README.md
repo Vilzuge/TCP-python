@@ -1,3 +1,3 @@
 # TCP-python
 Distributed systems ass-1
-Video: https://github.com/Vilzuge/TCP-python/edit/main/README.md
+Video: https://www.youtube.com/watch?v=1KEh0zkkG-Y
